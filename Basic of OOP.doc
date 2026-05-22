@@ -1,1 +1,7 @@
 OOP in Python: To map with real world Scenerios, We started using objects in code.
+
+Before OOP most of the languages was procedural programming. 
+
+class is a blueprint for creating objects. A class determines what features the objects will have. Such as 
+a class student it will have id, name, result etc. A student named sami is the object of the class student 
+having the features of the class student.
